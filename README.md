@@ -14,7 +14,7 @@ gem 'iscroll-rails'
 
 And then execute:
 
-    $ bundle
+    $ bundle install
 
 Or install it yourself as:
 
@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    #= require iscroll-rails
 
 ## Development
 

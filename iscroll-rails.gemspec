@@ -1,5 +1,5 @@
 # coding: utf-8
-lib = File.expand_path('../lib', __FILE__)
+lib = File.expand_path('../lib/iscroll/rails/version', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'iscroll/rails/version'
 
@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["xukuanzhuo"]
   spec.email         = ["1060821554@qq.com"]
 
-  spec.summary       = %q{"iscroll-rails"}
+  spec.summary       = %q{"iscroll-rails gem"}
   spec.description   = %q{"This gem provides iScroll for your Rails application."}
   spec.homepage      = "https://github.com/xukuanzhuo/iscroll-rails"
   spec.license       = "MIT"
