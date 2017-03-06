@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["1060821554@qq.com"]
 
   spec.summary       = %q{"iscroll-rails"}
-  spec.description   = %q{"iscroll-rails"}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.description   = %q{"This gem provides iScroll for your Rails application."}
+  spec.homepage      = "https://github.com/xukuanzhuo/iscroll-rails"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
